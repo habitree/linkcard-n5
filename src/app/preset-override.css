@@ -1,9 +1,9 @@
 /* ── Link Card Theme Override (auto-generated) ── */
 :root {
-  --lc-primary: #9b7968;
-  --lc-secondary: #9b9b68;
-  --lc-primary-rgb: 155, 121, 104;
-  --color-primary: #9b7968;
+  --lc-primary: #0ea5e9;
+  --lc-secondary: #0e13e9;
+  --lc-primary-rgb: 14, 165, 233;
+  --color-primary: #0ea5e9;
   --lc-text: #111827;
   --lc-text-muted: #6b7280;
   --lc-card-bg: rgba(0,0,0,0.04);
